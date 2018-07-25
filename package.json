@@ -1,0 +1,28 @@
+{
+  "name": "yaml-to-jsonp-loader",
+  "version": "0.1.0",
+  "description": "YAML loader for webpack (converts YAML to JSONP)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtufailshaikh/yaml-to-jsonp-loader.git"
+  },
+  "keywords": [
+    "yaml",
+    "webpack",
+    "loader",
+    "jsonp"
+  ],
+  "author": "Mohammed Tufail <mtuufail@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtufailshaikh/yaml-to-jsonp-loader/issues"
+  },
+  "homepage": "https://github.com/mtufailshaikh/yaml-to-jsonp-loader#readme",
+  "dependencies": {
+    "js-yaml": "^3.12.0"
+  }
+}

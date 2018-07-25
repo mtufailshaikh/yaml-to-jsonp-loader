@@ -1,6 +1,6 @@
 {
   "name": "yaml-to-jsonp-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "YAML loader for webpack (converts YAML to JSONP)",
   "main": "index.js",
   "scripts": {
